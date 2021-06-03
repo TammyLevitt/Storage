@@ -1,13 +1,14 @@
-h1{
-    color:red;
+body {
+background-color: lightblue;    
 }
-
-.is{
-color:green;
-font-style: italic;
+#workMenu{
+    border: 2px dotted rgb(185, 29, 159);
+    border-radius: 50%;
+    height: 120%;
+    
 }
-
-#coding{
-    color:blue;
-    text-decoration: underline;
+.icon {
+margin-top: 1.75vh;
+margin-left: 1.25vw;
+cursor: pointer;
 }
